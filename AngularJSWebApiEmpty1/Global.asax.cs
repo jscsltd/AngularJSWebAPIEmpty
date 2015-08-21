@@ -12,6 +12,8 @@ namespace AngularJSWebApiEmpty1
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            int k = 20;
+            int l = 50;
             //test change in branch
             int i=0;
             int j = 9;
