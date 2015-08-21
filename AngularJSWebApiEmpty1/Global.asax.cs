@@ -14,6 +14,7 @@ namespace AngularJSWebApiEmpty1
             GlobalConfiguration.Configure(WebApiConfig.Register);
             //test change in branch
             int i=0;
+            int j = 9;
         }
     }
 }
