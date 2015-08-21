@@ -13,6 +13,7 @@ namespace AngularJSWebApiEmpty1
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
             int k = 20;
+            int l = 50;
         }
     }
 }
